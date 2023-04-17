@@ -37,7 +37,7 @@ const Navbar = () => {
           <img src="/assets/profile.png" alt="profile" />
           <img src="/assets/wishlist.png" alt="wishlist" />
           <img src="/assets/home.png" alt="home" />
-          <img src="/assets/cart.png" alt="cart" />
+          <img src="/assets/cart1.png" alt="cart" />
         </div>
       </div>
     </div>
