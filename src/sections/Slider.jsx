@@ -19,13 +19,10 @@ const Slider = () => {
       <div className="slider-main">
         <ReactCompareSlider
           itemOne={
-            <ReactCompareSliderImage src="/src/assets/blur.png" alt="blur" />
+            <ReactCompareSliderImage src="/assets/blur.png" alt="blur" />
           }
           itemTwo={
-            <ReactCompareSliderImage
-              src="/src/assets/normal.webp"
-              alt="normal"
-            />
+            <ReactCompareSliderImage src="/assets/normal.webp" alt="normal" />
           }
         />
       </div>

@@ -26,10 +26,10 @@ const Rewards = () => {
       <div className="carousel-container">
         <Slider {...sliderSettings}>
           <div>
-            <img src="/src/assets/rewards-1.png"></img>
+            <img src="/assets/rewards-1.png"></img>
           </div>
           <div>
-            <img src="/src/assets/rewards-2.png"></img>
+            <img src="/assets/rewards-2.png"></img>
           </div>
         </Slider>
       </div>

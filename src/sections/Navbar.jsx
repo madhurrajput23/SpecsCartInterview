@@ -23,7 +23,7 @@ const Navbar = () => {
         <span></span>
       </div>
       <div className="navbar-logo">
-        <img src="/src/assets/specscart-nav.png" />
+        <img src="/assets/specscart-nav.png" />
       </div>
       <div className="navbar-bottom">
         <div className="navbar-bottom-left-items">
@@ -33,11 +33,11 @@ const Navbar = () => {
           <div className="navbar-bottom-item">Eye-Test</div>
         </div>
         <div className="navbar-bottom-right-items">
-          <img src="/src/assets/search.png" alt="search" />
-          <img src="/src/assets/profile.png" alt="profile" />
-          <img src="/src/assets/wishlist.png" alt="wishlist" />
-          <img src="/src/assets/home.png" alt="home" />
-          <img src="/src/assets/cart.png" alt="cart" />
+          <img src="/assets/search.png" alt="search" />
+          <img src="/assets/profile.png" alt="profile" />
+          <img src="/assets/wishlist.png" alt="wishlist" />
+          <img src="/assets/home.png" alt="home" />
+          <img src="/assets/cart.png" alt="cart" />
         </div>
       </div>
     </div>
